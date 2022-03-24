@@ -1,0 +1,4 @@
+#Fri Mar 25 02:18:01 ICT 2022
+base.0=D\:\\FPT\\CN7\\PRM391\\mobile_app_group_project-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
